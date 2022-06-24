@@ -15,7 +15,6 @@ const employee = {
     Email: 'jheart@dx-email.com',
     Skype: 'jheart_DX_skype',
   };
-  
   export default {
     getEmployee() {
       return employee;
